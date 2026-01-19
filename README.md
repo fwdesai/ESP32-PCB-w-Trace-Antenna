@@ -1,4 +1,4 @@
-# rf_sense
+# ESP32-PCB-w-trace-antenna
 ESP32 based board with integrated trace antenna
 v1:
 
