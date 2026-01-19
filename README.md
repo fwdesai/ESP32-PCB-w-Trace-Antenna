@@ -1,4 +1,4 @@
-# ESP32-PCB-w-trace-antenna
+# ESP32 PCB w Trace Antenna
 ESP32 based board with integrated trace antenna
 v1:
 
